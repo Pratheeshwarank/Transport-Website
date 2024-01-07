@@ -24,10 +24,10 @@ To run website locally, run this command on your git bash:
 
 Linux and macOS:
 
-sudo git clone [[![Uploading image.png…]()](https://pratheeshwarank.github.io/Transport-Website/)](https://pratheeshwarank.github.io/Transport-Website/).git
+sudo git clone https://pratheeshwarank.github.io/Transport-Website/.git
 
 
-git clone [https://github.com/pratheeshwarank/AgeCalculator](https://pratheeshwarank.github.io/Transport-Website/).git
+git clone https://pratheeshwarank.github.io/Transport-Website/.git
 Contact
 If you want to contact with me you can reach me at gmail. If you want to contact with me you can reach me at github.
 
